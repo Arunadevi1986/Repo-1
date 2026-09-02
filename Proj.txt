@@ -1,2 +1,4 @@
 How are you
 this is my file
+i have added line 3 to this 
+also line 4 to this 
